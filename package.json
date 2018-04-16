@@ -21,7 +21,7 @@
     "reactjs"
   ],
   "author": "Nick Deis",
-  "license": "MIT",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/nickdeis/react-transform-display-names"
