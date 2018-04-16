@@ -22,10 +22,14 @@
   ],
   "author": "Nick Deis",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pwmckenna/react-transform-noop/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdeis/react-transform-display-names"
   },
-  "homepage": "https://github.com/pwmckenna/react-transform-noop#readme",
+  "bugs": {
+    "url": "https://github.com/nickdeis/react-transform-display-names/issues"
+  },
+  "homepage": "https://github.com/nickdeis/react-transform-display-names#readme",
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-eslint": "^8.2.3",
