@@ -1,9 +1,11 @@
 # react-transform-display-names
 
 This is a [react-transform](https://github.com/gaearon/babel-plugin-react-transform) that retains display names even after the src has been uglified/mangled.  
-This is useful when you need to debug a React application that has been minified using the React Devtools.
+This is useful when you need to debug a React application that has been minified using React Devtools.
 
 ### Usage
+
+`npm i react-transform-display-names --save-dev`
 
 Add this to your `.babelrc`. 
 
